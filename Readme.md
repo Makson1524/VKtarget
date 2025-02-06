@@ -1,6 +1,6 @@
 ##How to use
 
-user: admin Moscow10
+user:makishimaa
 
 ##Requirements
 
